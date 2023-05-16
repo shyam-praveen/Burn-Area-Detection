@@ -1,0 +1,17 @@
+numpy
+matplotlib==3.4.3
+tensorflow==2.5.0
+keras>=2.0.8
+opencv-python== 4.7.0.72
+h5py
+imgaug==0.4.0
+fastapi==0.95.1
+mrcnn==0.2
+path
+uvicorn==0.21.1
+watchdog
+Pillow
+scipy==1.7.1
+scikit-image==0.18.3
+python-multipart
+pydantic==1.10.7
